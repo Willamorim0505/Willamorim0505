@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou formado em Analise e Desenvolvimento de sistemas<br>👯 Tenho conhecimentos na parte de Active directory, sistemas ERP, redes, HelpDesk, Atendimento ao cliente e Linguagens de Programação. <br>🌱 Busco conhecimentos sempre<br>
+🔭 Sou formado em Análise e Desenvolvimento de sistemas<br>👯 Tenho conhecimentos na parte de Active directory, sistemas ERP, redes, HelpDesk, Atendimento ao cliente e Linguagens de Programação. <br>🌱 Busco conhecimentos sempre<br>
 
 
 # 💻 Tech Stack:
