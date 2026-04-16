@@ -3,8 +3,7 @@
 
 
 # 💻 Tech Stack:
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/OutSystems_logo.png" width="120"/>
-
+![OutSystems](https://img.shields.io/badge/OutSystems-LowCode-red?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
