@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 Sou formado em Análise e Desenvolvimento de sistemas<br>👯 Tenho conhecimentos na parte de Active directory, sistemas ERP, redes, HelpDesk, Atendimento ao cliente e Linguagens de Programação. <br>🌱 Busco conhecimentos sempre<br>
+
+Sou desenvolvedor em transição da área de suporte para desenvolvimento, com foco em criação de aplicações web utilizando OutSystems.
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🚀 Stack: OutSystems, JavaScript e SQL  
+💻 Experiência prática com desenvolvimento de aplicações, modelagem de dados e lógica de sistemas  
+
+Buscando minha primeira oportunidade como Desenvolvedor Júnior para aplicar e expandir meus conhecimentos.
 
 
 # 💻 Tech Stack:
